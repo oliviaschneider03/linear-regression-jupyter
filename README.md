@@ -7,15 +7,15 @@ Lastly, this assignment helped us become more familiar with pushing our files to
 
 ## Tools and libraries used
 For R: 
-ggplot2 - visualization plot for R 
+ggplot2 - visualization plot for R; 
 summary command - used to produce statistical analyses on the data we have input 
 
 For Python:
-Pandas - used for working with panel data
-Matplotlib - used for creating visualizations 
-Scikit-learn - used as a machine learning library that allowed us to have linear regression model 
-scipy - library with many mathematical equations
-matplotlib.scatter command (as well as other formatting commands)- makes a scatter plot and formats it
+Pandas - used for working with panel data;
+Matplotlib - used for creating visualizations; 
+Scikit-learn - used as a machine learning library that allowed us to have linear regression model; 
+scipy - library with many mathematical equations;
+matplotlib.scatter command (as well as other formatting commands)- makes a scatter plot and formats it;
 model.score command - produce R squared value 
 
 ## Notes on results
